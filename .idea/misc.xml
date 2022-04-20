@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FAJAR/UTS/app/src/main/res/layout/activity_detail_list_motor_matic_terbaru2022.xml" value="0.2359375" />
+        <entry key="..\:/FAJAR/UTS/app/src/main/res/layout/activity_detail_motor_terbaru.xml" value="0.25" />
+        <entry key="..\:/FAJAR/UTS/app/src/main/res/layout/activity_detail_motor_terbaru_activityy.xml" value="0.6832844574780058" />
+        <entry key="..\:/FAJAR/UTS/app/src/main/res/layout/activity_detail_motorterbaru.xml" value="0.25" />
+        <entry key="..\:/FAJAR/UTS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/FAJAR/UTS/app/src/main/res/layout/item_motor_terbaru2022.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
